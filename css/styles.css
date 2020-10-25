@@ -1,0 +1,8 @@
+.object{
+    background: #DFA995;
+    width: 300px;
+    height: 300px;
+    display:inline-block;
+    position: relative;
+	border: 2px solid black;
+}
